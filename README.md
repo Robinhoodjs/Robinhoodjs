@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Robinhoodjs
-- 👀 I’m interested in math, physcics and programming
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me jakub.st2004@gmail.com
+# Hi there, I'm Jakub! 👋
 
-<!---
-Robinhoodjs/Robinhoodjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 3rd Year Cryptology & Cybersecurity Student at the Military University of Technology (WAT)
+
+I'm a passionate developer bridging the gap between **security**, **mathematics**, and **modern web development**. Currently diving deep into Frontend engineering and secure AI integration.
+
+- 🔭 **I’m currently working on:** An AI-powered **code assessment platform** using **LangGraph** & **React**.
+- 🌱 **I’m currently learning:** TypeScript, Vercel AI SDK, and secure sandboxing.
+- 👯 **I’m looking to collaborate on:** Open source projects related to DevTools, Security, or EdTech.
+- ⚡ **Fun fact:** I combine complex math models with clean, secure code.
+
+### 🛠️ Tech Stack
+* **Languages:** JavaScript, TypeScript, Python, C++
+* **Frontend:** React, Vite, Tailwind CSS
+* **Interests:** Cryptography, Web Security, Generative AI, Physics
+
+📫 **How to reach me:** [stachowski.jakub@proton.me](mailto:stachowski.jakub@proton.me)
